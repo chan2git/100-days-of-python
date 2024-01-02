@@ -1,0 +1,10 @@
+# Date: 01/01/2024
+# Section 1
+
+# Display a greeting, ask for the name of city, name of a pet, and combine it to print a band name
+
+print("Welcome to the Band Name Generator! ")
+city = input("What city did you grow up in? ")
+pet = input("What is the name of your pet? ")
+
+print(f"Your band name is: {city} {pet}")
