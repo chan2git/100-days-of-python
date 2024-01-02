@@ -3,4 +3,4 @@ This repository aims to follow Angela Yu's Udemy course: *100 Days of Code: The 
 
 # Table of Content
 
-- Day 1: Variables and Managing Data
+- [Day 1: Variables and Managing Data](https://github.com/chan2git/100-days-of-python/tree/main/day-1)
